@@ -15,8 +15,7 @@ public class JavaApplication9 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Halo Dunia");
-        System.out.println("Welcome Back");
+        System.out.println("Selamat datang Kelas D RPL FTI UII");
     }
     
 }
